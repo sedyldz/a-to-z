@@ -25,6 +25,7 @@ const IndexPage = () => {
 
   const terms = termsData.allMarkdownRemark.nodes
 
+
   return (
     <main >
       <title>A to Z</title>
