@@ -12,6 +12,6 @@
 } 
 
 .cms-content img{
-    @apply w-2/4 pt-2;        
+    @apply w-full pt-2;        
 } 
 }
