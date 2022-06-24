@@ -6,7 +6,8 @@ tag: "P"
 description: "Persona is the visual and detailed presentation of a product’s or service’s target audiences or users. By creating personas, we are able to understand whom we are building, designing, writing, and developing for. From UX design to marketing, personas are important for all of us. "
 createdAt: 1655822165477
 metaDescription: "Personas are representations of a certain user segment."
-updatedAt: 1655896672381
+updatedAt: 1656061730521
+gif: "https://media.giphy.com/media/FUvdCo48nmtP7G4L1R/giphy.gif"
 
 ---
 Persona is the visual and detailed presentation of a product’s or service’s target audiences or users. By creating personas, we are able to understand whom we are building, designing, writing, and developing for. From UX design to marketing, personas are important for all of us. 
