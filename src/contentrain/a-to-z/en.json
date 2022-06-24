@@ -404,7 +404,8 @@
     "content": "Trello is a visual project management, workflow, and task tracking application that your team can use to manage any form of project, workflow, or task tracking. Files, checklists, and even automation can be added: Customize everything to fit the way your team works best.\n\n![Trello](https://media.giphy.com/media/QBC5foQmcOkdq/giphy.gif)",
     "createdAt": 1655822601371,
     "metaDescription": "Trello is a project management app which generally used by tech teams. ",
-    "updatedAt": 1655890440082
+    "updatedAt": 1656061874539,
+    "gif": "https://media.giphy.com/media/QBC5foQmcOkdq/giphy.gif"
   },
   {
     "title": "Typography",
@@ -415,7 +416,8 @@
     "content": "The discipline of arranging letters and text in such a way that the content is legible, clear, and visually appealing to the reader is known as typography.\n\n![Typography](https://media.giphy.com/media/52kR8CC9eKezyQgXli/giphy.gif)",
     "createdAt": 1655822731476,
     "metaDescription": " Typography is the all of the visual elements of text such font style, look and structure.",
-    "updatedAt": 1655890498182
+    "updatedAt": 1656061894843,
+    "gif": "https://media.giphy.com/media/52kR8CC9eKezyQgXli/giphy.gif"
   },
   {
     "slug": "ux",
@@ -426,7 +428,8 @@
     "content": "UX refers to user experience. User experience focuses on the user's perception of the system while UI mostly focuses on aesthetic elements of a product or system. User experiences are designed by UX designers with the aim of easiness, efficiency, usability, and so on.\n\n![UX](https://media.giphy.com/media/SYnI5UaSP0d3u2QhWW/giphy.gif)",
     "metaDescription": "UX stands for user experience. ",
     "createdAt": 1655882705252,
-    "updatedAt": 1655890547201
+    "updatedAt": 1656061921432,
+    "gif": "https://media.giphy.com/media/SYnI5UaSP0d3u2QhWW/giphy.gif"
   },
   {
     "slug": "user-flow",
@@ -437,7 +440,8 @@
     "content": "User flows are critical to the design process. They represent the desired flow of a user through a site and are used to protect against overly complex interfaces, at the very minimum. They are the fastest way of visualizing users’ processes and understanding their needs.\n\n![User Flow](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)",
     "metaDescription": "User flow is the path users follow to accomplish a task.",
     "createdAt": 1655882784949,
-    "updatedAt": 1655890616323
+    "updatedAt": 1656061946658,
+    "gif": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
   },
   {
     "slug": "usp",
@@ -448,7 +452,8 @@
     "content": "USP stands for unique selling propositions; which explains why someone buys your product or service instead of competitors. A unique selling proposition can be something digital or something that should be expressed well in digital. Both ways, it’s important to understand the unique selling proposition of something for digital product efforts. \n\n![USP](https://media.giphy.com/media/l2Je9Jj06b7Pk9R1m/giphy.gif)",
     "metaDescription": "USP stands for unique selling positions. ",
     "createdAt": 1655882867239,
-    "updatedAt": 1655890666513
+    "updatedAt": 1656061972566,
+    "gif": "https://media.giphy.com/media/l2Je9Jj06b7Pk9R1m/giphy.gif"
   },
   {
     "slug": "usability",
@@ -459,7 +464,8 @@
     "content": "Usability is a UX and UI term to express how usable a product is. It’s important to differentiate usability from the ease of use. Usability includes learnability, efficiency, memorability, errors, and satisfaction. \n\n![Usability](https://media.giphy.com/media/QZ4WIYqMHBgQw/giphy.gif)",
     "metaDescription": "Usablity is the expression of how usable a product. ",
     "createdAt": 1655882936871,
-    "updatedAt": 1655891614758
+    "updatedAt": 1656062040698,
+    "gif": "https://media.giphy.com/media/QZ4WIYqMHBgQw/giphy.gif"
   },
   {
     "slug": "user-journey-map",
@@ -470,7 +476,8 @@
     "content": "User journey maps are a visual representation of how the user interacts with the design from the designer's point of view. The designer may become so engrossed in his job that he loses sight of his ultimate goal: to assist consumers with their requirements. It enables him to describe the defects, how they may be improved, and what could be done to correct them. It promotes the notion that interactivity is an important aspect of design.\n\n![User Journey Map](https://media.giphy.com/media/cjbfyJrICOaKIXBWyG/giphy.gif)",
     "metaDescription": "User journey maps are represantation of a user's steps in a digital product. ",
     "createdAt": 1655883003362,
-    "updatedAt": 1655896732654
+    "updatedAt": 1656062064205,
+    "gif": "https://media.giphy.com/media/cjbfyJrICOaKIXBWyG/giphy.gif"
   },
   {
     "slug": "voc",
@@ -481,7 +488,8 @@
     "content": "VOC stands for the voice of the customer. It is one of the main concerns in user-centered design and development. VOC basically refers to user feedback and includes understanding the expectations, needs, and pain points of end-users.\n\n![VOC](https://media.giphy.com/media/zBOqRPmkEF3Ow/giphy.gif)",
     "metaDescription": "VOC stands for voice of the customer. ",
     "createdAt": 1655883065152,
-    "updatedAt": 1655890718327
+    "updatedAt": 1656062088071,
+    "gif": "https://media.giphy.com/media/zBOqRPmkEF3Ow/giphy.gif"
   },
   {
     "slug": "white-space",
@@ -492,7 +500,8 @@
     "content": "White is simply the space between design elements in a product. It is sometimes referred to as negative or blank space. It refers to everything that isn't content.\n\n![White Space](https://media.giphy.com/media/clffiicvvmhXrYaAs8/giphy.gif)",
     "metaDescription": "White space is the blank space in a design. ",
     "createdAt": 1655883129096,
-    "updatedAt": 1655896799622
+    "updatedAt": 1656062112944,
+    "gif": "https://media.giphy.com/media/clffiicvvmhXrYaAs8/giphy.gif"
   },
   {
     "slug": "wireframe",
@@ -503,7 +512,8 @@
     "content": "Wireframes are pre-structures of a digital product. They are simple black-and-white drafts before any code is written. It is possible to perceive them as sketches. It helps different teams visually communicate with each other. Wireframes are used by user experience and user interface designers to sketch out a visual idea that can be readily adjusted until it's ready to be created and developed.\n\n![Wireframe](https://media.giphy.com/media/l3q2B5lY5z1TEJ6Rq/giphy.gif)",
     "metaDescription": "Wireframes are drafts of a digital product design. ",
     "createdAt": 1655883190396,
-    "updatedAt": 1655897844439
+    "updatedAt": 1656062143178,
+    "gif": "https://media.giphy.com/media/l3q2B5lY5z1TEJ6Rq/giphy.gif"
   },
   {
     "slug": "waterfall",
@@ -514,7 +524,8 @@
     "content": "The waterfall is a methodology for project management. It is based on finishing every stage before starting the next one. In software development, there are 5 common stages: requirements, design, implementation, verification or testing, deployment & maintenance. \n\n![Waterfall](https://media.giphy.com/media/3o6MbcHn9LVhXAT2cE/giphy.gif)",
     "metaDescription": "Waterfall is a development methodology in software development.",
     "createdAt": 1655883292986,
-    "updatedAt": 1655890787241
+    "updatedAt": 1656062168674,
+    "gif": "https://media.giphy.com/media/3o6MbcHn9LVhXAT2cE/giphy.gif"
   },
   {
     "slug": "yoy",
@@ -525,7 +536,8 @@
     "content": "Year-over-year (YOY) is a method of comparing the outcomes of two measured events in different years on an annualized basis.\nYOY comparisons are a popular and effective way to assess a company's financial performance.\n\n![YOY](https://media.giphy.com/media/QonECpKOcl3heXmN9N/giphy.gif)",
     "metaDescription": "YOY stands for year over year in digital product analytics.",
     "createdAt": 1655883379190,
-    "updatedAt": 1655891855975
+    "updatedAt": 1656062190735,
+    "gif": "https://media.giphy.com/media/QonECpKOcl3heXmN9N/giphy.gif"
   },
   {
     "slug": "zoom",
@@ -536,6 +548,7 @@
     "content": "Zoom is a cloud-based meeting app that popularized in the coronavirus pandemic when remote working was common. You can use zoom for audio conferences and video conferences and both of them.\n\n![Zoom](https://media.giphy.com/media/eGmervd1fME3TmHY06/giphy.gif)",
     "metaDescription": "Zoom is a virtual  conferencing app.",
     "createdAt": 1655883504856,
-    "updatedAt": 1655890845667
+    "updatedAt": 1656062272679,
+    "gif": "https://media.giphy.com/media/eGmervd1fME3TmHY06/giphy.gif"
   }
 ]
