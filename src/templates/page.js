@@ -24,7 +24,6 @@ const Page = ({pageContext}) => {
   `)
 
   const terms = termsData.allMarkdownRemark.nodes.filter((term) => {
-    console.log(term.frontmatter.tag,letter)
     if(letter) {
       return term.frontmatter.tag === letter;
     } else {
@@ -39,11 +38,11 @@ const Page = ({pageContext}) => {
       <title>{letter} | A to Z</title>
       <div className="flex bg-light min-h-screen">
         <div className="fixed h-full">
-          <Menu/>
+          <Menu active={letter}/>
         </div>
-        <div className="flex flex-col lg:pl-80 pr-20 w-full">
+        <div className="flex flex-col pl-24 lg:pl-80 pr-10 lg:pr-20 w-full">
         <Navbar/>
-        <h1 className="text-xl  md:text-2xl lg:text-5xl max-w-2xl text-blue pt-10 pb-40 font-serif">We've listed all the 
+        <h1 className="text-xl  md:text-2xl lg:text-5xl max-w-2xl text-blue pt-10 pb-20 font-serif">We've listed all the 
         <span className="font-serif"> terms </span> 
         and <span className="font-serif"> definitions </span> that you'll want to know
         about digital products.</h1>

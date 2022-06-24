@@ -14,10 +14,10 @@ export default function Template({
         <div className="fixed h-full">
          <Menu />
         </div>
-        <div className="flex flex-col lg:pl-80 pr-20 w-full">
+        <div className="flex flex-col pl-24 lg:pl-80 pr-10 lg:pr-20 w-full">
           <Navbar />
           <article className="cms-content max-w-2xl">
-            <h1 className="pb-5 text-3xl text-blue font-serif">{frontmatter.title}</h1>
+            <h1 className=" text-3xl text-blue font-serif">{frontmatter.title}</h1>
             <div
               className="py-2 "
               dangerouslySetInnerHTML={{ __html: html }}

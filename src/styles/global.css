@@ -10,4 +10,8 @@
 .cms-content p{
     @apply py-2;        
 } 
+
+.cms-content img{
+    @apply w-2/4 pt-2;        
+} 
 }
