@@ -19,8 +19,9 @@
     "description": "The use of behavioral science and human psychology in product design is referred to as behavioral product management. It is presumptively assumed that humans are illogical, and that there are certain behavioral patterns that can aid in increasing both user experience and conversion rates.",
     "tag": "B",
     "createdAt": 1655741944160,
-    "updatedAt": 1655889836514,
-    "metaDescription": "Behavioral product management refers to the application of behavioral science and human psychology to product processes."
+    "updatedAt": 1656060934988,
+    "metaDescription": "Behavioral product management refers to the application of behavioral science and human psychology to product processes.",
+    "gif": "https://media.giphy.com/media/uwaNSaBaJOKuOSIDVl/giphy.gif"
   },
   {
     "description": "API means application programming interface, which makes different technologies communicate. API stands for an application programming interface. They make it possible to talk about different technologies to each other. An API allows the sharing of data or functions of a digital product with another digital product. They provide a clearly defined interface to enable various components of larger applications to work together, and they can reduce the amount of code that is required. In other words, they serve as bridges between your components, even if they were developed by different companies.",
