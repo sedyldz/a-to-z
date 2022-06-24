@@ -15,3 +15,17 @@
     @apply w-full pt-2;        
 } 
 }
+
+.term-image {
+    display:none;
+}
+.term-title{
+    position: relative;
+    
+}
+.term-title:hover  .term-image{
+ display:block;
+ position: absolute;
+ right:50px;
+ top:-50px;
+}

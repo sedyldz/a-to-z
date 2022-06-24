@@ -17,6 +17,7 @@ const IndexPage = () => {
           slug
           tag
           title
+          gif
         }
       }
     }
