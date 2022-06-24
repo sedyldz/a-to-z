@@ -6,7 +6,8 @@ tag: "J"
 description: "JavaScript is a scripting language that allows you to generate dynamically updating information, manipulate multimedia, animate graphics, and do a lot more."
 createdAt: 1655821104942
 metaDescription: "Javascript is a programming language. "
-updatedAt: 1655899941492
+updatedAt: 1656061313578
+gif: "https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
 
 ---
 JavaScript is a scripting language that allows you to generate dynamically updating information, manipulate multimedia, animate graphics, and do a lot more.
