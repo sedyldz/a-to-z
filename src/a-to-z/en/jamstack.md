@@ -6,7 +6,8 @@ tag: "J"
 description: "Jamstack is an acronym that stands for JavaScript, API, and Markup. Web apps employ the programming language JavaScript. An API is a method of requesting data from another computer or application. Markup is code that gives browsers formatting instructions."
 createdAt: 1655821008234
 metaDescription: "Jamstack is a framework for building static websites dynamicly."
-updatedAt: 1655905056993
+updatedAt: 1656061293245
+gif: "https://media.giphy.com/media/3mV5n5Vgboad2/giphy.gif"
 
 ---
 Jamstack is an acronym that stands for JavaScript, API, and Markup. Web apps employ the programming language JavaScript. An API is a method of requesting data from another computer or application. Markup is code that gives browsers formatting instructions.
