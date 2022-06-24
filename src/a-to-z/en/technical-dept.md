@@ -6,7 +6,8 @@ tag: "T"
 description: "Technical dept is a catch-all category that includes everything from bugs to legacy code to missing documentation. It occurs when speed is more important than perfectness. "
 createdAt: 1655822507304
 metaDescription: "Technical dept is the result of prioritizing speed over excellence."
-updatedAt: 1655890929598
+updatedAt: 1656061853234
+gif: "https://media.giphy.com/media/ndnyR8GTOtTQ9Og2vP/giphy.gif"
 
 ---
 Technical dept is a catch-all category that includes everything from bugs to legacy code to missing documentation. It occurs when speed is more important than perfectness. 
