@@ -1,8 +1,8 @@
-import React, { useState } from "react";
+import React from "react";
 import { Link } from 'gatsby';
 
 const Term =  ( { term, index } )  => {
-    const [gifVisible, setGifVisible] = useState(false)
+
     return (
         <div className='py-10 max-w-2xl'  key={index} >
             <Link to={"/"+term.slug}>
