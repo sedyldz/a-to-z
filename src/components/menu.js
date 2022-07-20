@@ -11,7 +11,7 @@ const Menu = ({active}) => {
                 if(letter === active ){
                     return <Link className='text-pink' to={"/"+letter}>{letter}</Link>
                 }else{
-                    return <Link to={"/terms/"+letter}>{letter}</Link>
+                    return <Link to={"/digital-product-glossary/terms/"+letter}>{letter}</Link>
                 }
       
             })}

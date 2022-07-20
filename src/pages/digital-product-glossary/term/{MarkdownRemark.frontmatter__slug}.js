@@ -1,7 +1,7 @@
 import React from "react";
 import { graphql } from "gatsby";
-import Menu from "../../components/menu";
-import Navbar from "../../components/navbar";
+import Menu from "../../../components/menu";
+import Navbar from "../../../components/navbar";
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
