@@ -5,7 +5,7 @@ const Term =  ( { term, index } )  => {
 
     return (
         <div className='py-10 max-w-2xl'  key={index} >
-            <Link to={"/"+term.slug}>
+            <Link to={"/term/"+term.slug}>
                 <h3 className="pb-5 text-3xl text-blue font-serif term-title">
                     {term.title}
                     {term.gif && 
