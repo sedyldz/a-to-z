@@ -573,5 +573,16 @@
     "metaDescription": "Back end is the part of any system that end user's cannot reach. ",
     "gif": "https://media.giphy.com/media/11BbGyhVmk4iLS/giphy.gif",
     "createdAt": 1658390815988
+  },
+  {
+    "slug": "browser",
+    "tag": "B",
+    "title": "Browser",
+    "description": "A browser is a web-based program that gives you access to and interaction with the internet. It is a decent way to interact with all the information on the Web. Google Chrome, Safari, Mozilla Firefox, Opera are few of browsers. There are too many options out there, including even Microsoft Edge! ",
+    "content": "A browser is a web-based program that gives you access to and interaction with the internet. It is a decent way to interact with all the information on the Web. Google Chrome, Safari, Mozilla Firefox, Opera are few of browsers. There are too many options out there, including even Microsoft Edge! \n\n![Browser](https://media.giphy.com/media/f61hh6QisPuWJkZtin/giphy.gif)",
+    "ID": "62fbec71-c35d-4de5-841a-cfb2fd9df6a1",
+    "metaDescription": "Browser is an umberalla name for applications which are for reaching the web. A browser can be thought of as your entry point to the internet.",
+    "gif": "https://media.giphy.com/media/f61hh6QisPuWJkZtin/giphy.gif",
+    "createdAt": 1658390952324
   }
 ]
