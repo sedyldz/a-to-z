@@ -804,5 +804,16 @@
     "metaDescription": "In computing query refers a way to asking for data. ",
     "gif": "https://media.giphy.com/media/3o6ZtbdY6g0V8utOx2/giphy.gif",
     "createdAt": 1658393692766
+  },
+  {
+    "ID": "46826832-c666-48be-ac6f-65d0cb64d3db",
+    "tag": "S",
+    "slug": "scaleup",
+    "content": "Scaleups, can be defined as a growed startup. Yet, not necessarily. These are businesses that have grown more than 20% each year in terms of employee numbers during the last 3 financial years. Scaleups are continually looking to expand into new areas and have scalable business models.\nThe most notable difference between a startup and a scaleup is the sense of certainty in the return on investment (ROI).\n\n![Scaleup](https://media.giphy.com/media/ToMjGpGX8pg9C9FL1kI/giphy.gif)\n",
+    "title": "Scaleup",
+    "description": "Scaleups, can be defined as a growed startup. Yet, not necessarily. These are businesses that have grown more than 20% each year in terms of employee numbers during the last 3 financial years. Scaleups are continually looking to expand into new areas and have scalable business models.\nThe most notable difference between a startup and a scaleup is the sense of certainty in the return on investment (ROI).",
+    "metaDescription": "Scale ups are growed startups that reached the scaling phase. ",
+    "gif": "https://media.giphy.com/media/ToMjGpGX8pg9C9FL1kI/giphy.gif",
+    "createdAt": 1658393837759
   }
 ]
