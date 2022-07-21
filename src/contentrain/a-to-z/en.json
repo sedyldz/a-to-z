@@ -650,5 +650,16 @@
     "metaDescription": "Cookie policy is a warning for visitors about why and how data collected.",
     "gif": "https://media.giphy.com/media/f3M1ih7AXEwyk/giphy.gif",
     "createdAt": 1658391793973
+  },
+  {
+    "slug": "cx",
+    "tag": "C",
+    "title": "CX",
+    "description": "CX stands for customer experience. Customer experience is about everything the customer interacts with products, services or the brand, not just the digital interactions in UX.",
+    "content": "CX stands for customer experience. Customer experience is about everything the customer interacts with products, services or the brand, not just the digital interactions in UX.\n\n![CX](https://media.giphy.com/media/13QGcRvLujRHq0/giphy.gif)",
+    "ID": "4b194a47-c3a9-4d6b-b8c7-9e20c658c630",
+    "metaDescription": "CX stands for customer experience. ",
+    "gif": "https://media.giphy.com/media/13QGcRvLujRHq0/giphy.gif",
+    "createdAt": 1658391926000
   }
 ]
