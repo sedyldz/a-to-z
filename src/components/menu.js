@@ -9,7 +9,7 @@ const Menu = ({active}) => {
         <div className='flex flex-col p-10 text-blue '>
             {alphabet.map((letter) => {
                 if(letter === active ){
-                    return <Link className='text-pink' to={"/"+letter}>{letter}</Link>
+                    return <Link className='text-pink' to={"/digital-product-glossary/terms/"+letter}>{letter}</Link>
                 }else{
                     return <Link to={"/digital-product-glossary/terms/"+letter}>{letter}</Link>
                 }
