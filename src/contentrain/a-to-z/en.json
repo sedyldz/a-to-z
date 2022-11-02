@@ -999,15 +999,16 @@
     "updatedAt": 1667376719438
   },
   {
-    "description": "Pre launch signups is a metric that shows how many people have taken the time to sign up for your new product, service or event before it is launched. This can be a great way to estimate the success of your product or service.",
+    "description": "Pre launch signups is the number of people who signed up for your new product, service or event before it is launched. This can be a great way to estimate the success of your product or service.",
     "tag": "P",
     "slug": "pre-launch-signups",
     "title": "Pre-Launch Signups",
-    "content": "Pre launch signups is a metric that shows how many people have taken the time to sign up for your new product, service or event before it is launched. This can be a great way to estimate the success of your product or service.",
+    "content": "Pre launch signups is the number of people who signed up for your new product, service or event before it is launched. This can be a great way to estimate the success of your product or service.",
     "ID": "91ec5317-1111-4af2-a28f-c4f70c4988c3",
     "metaDescription": "",
     "gif": "",
-    "createdAt": 1666621982406
+    "createdAt": 1666621982406,
+    "updatedAt": 1667376755828
   },
   {
     "description": "K-Factor is a metric that measures how effectively an app attracts new users. It is used to describe your app’s virality or how much improvement it has on driving engagement for each existing user.K-Factor defines how popular your product is, by comparing it to the average number of people who install and use it.",
