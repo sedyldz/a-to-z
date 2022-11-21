@@ -1035,15 +1035,16 @@
     "updatedAt": 1669026035967
   },
   {
-    "description": "It is a pretty straightforward metric that gives a general idea of how many paying customers your product has. It basically shows you how many actual paying customers have paid for your product, which can be helpful in gauging success and growth.",
+    "description": "This metric gives a general idea of how many paying customers your product has. It basically shows you how many actual paying customers have paid for your product, which can be helpful in gauging success and growth.",
     "tag": "N",
     "slug": "number-of-paying-customers",
     "title": "Number Of Paying Customers",
-    "content": "It is a pretty straightforward metric that gives a general idea of how many paying customers your product has. It basically shows you how many actual paying customers have paid for your product, which can be helpful in gauging success and growth.",
+    "content": "This metric gives a general idea of how many paying customers your product has. It basically shows you how many actual paying customers have paid for your product, which can be helpful in gauging success and growth.",
     "ID": "e1643735-d20e-4b3a-8e09-aa2397826487",
     "metaDescription": "",
     "gif": "",
-    "createdAt": 1666622280560
+    "createdAt": 1666622280560,
+    "updatedAt": 1669026125039
   },
   {
     "description": "Revenue is a measurement of your business's ability to make money. It's easy to understand when you look at a business as having three major sources of revenue: sales, cost of goods sold and expenses.Revenue is ultimately the primary goal of any business, as it's what provides the cash that a business can use to operate, grow and scale with the rest of the market.People often focus on their revenue growth, but revenue itself is not enough it needs to be converted into profit if you want to be successful.",
