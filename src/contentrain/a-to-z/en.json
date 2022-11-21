@@ -1031,7 +1031,8 @@
     "ID": "c6b80ea1-decc-4400-a144-61712928f050",
     "metaDescription": "",
     "gif": "",
-    "createdAt": 1666622140315
+    "createdAt": 1666622140315,
+    "updatedAt": 1669026035967
   },
   {
     "description": "It is a pretty straightforward metric that gives a general idea of how many paying customers your product has. It basically shows you how many actual paying customers have paid for your product, which can be helpful in gauging success and growth.",
