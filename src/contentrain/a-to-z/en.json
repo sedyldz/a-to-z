@@ -943,12 +943,12 @@
     "tag": "D",
     "slug": "daily-active-users",
     "title": "Daily Active Users (DAU)",
-    "content": "DAU is a metric used to measure a digital product's user interaction with its product or service. DAU measures how many unique users visit a product on a daily basis. It is one of the metrics that is used to measure the success of a product.\nThe higher the DAU, the more “sticky” your app/website is viewed as being by potential users. In order to calculate DAU, you first need to define a user and then determine what type of activity they're engaging in (consumption or engagement).",
+    "content": "DAU is a metric used to measure a digital product's user interaction with its product or service. DAU measures how many unique users visit a product on a daily basis. It is one of the metrics that is used to measure the success of a product.\nThe higher the DAU, the more “sticky” your app/website is viewed as being by potential users. In order to calculate DAU, you first need to define a user and then determine what type of activity they're engaging in (consumption or engagement.",
     "ID": "dd7f30b4-f927-4d23-b51d-6769d95ee090",
     "metaDescription": "",
     "gif": "",
     "createdAt": 1666621206460,
-    "updatedAt": 1667376464085
+    "updatedAt": 1669025469608
   },
   {
     "description": "CAC is short for customer acquisition cost. It's a metric to measure the average marketing cost of acquiring a customer. To calculate CAC the total amount marketing spendings (direct and indirect) are devided by acquired customers in a certain amount of time. CAC = Marketing Costs / Acquired Customers",
