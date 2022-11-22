@@ -74,5 +74,33 @@ module.exports = {
         pixelId: "221938399918609",
       },
     },
+    {
+      resolve: "gatsby-plugin-sitemap",
+      options: {
+        query: `
+        {
+          allSitePage {
+            nodes {
+              path
+            }
+          }         
+        }
+      `,
+        resolveSiteUrl: () => "https://tio.ist",
+        resolvePages: ({
+          allSitePage: { nodes: allPages }         
+        }) => {
+          return allPages.map(page => {
+            return { ...page }
+          })
+        },
+        serialize: ({ path, modifiedGmt }) => {
+          return {
+            url: path,
+            lastmod: modifiedGmt,
+          }
+        },
+      },
+    },
   ],
 }
