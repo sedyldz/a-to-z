@@ -8,7 +8,7 @@ const Navbar = () => {
              <div className="flex w-full text-3xl justify-between ">
                 <Link to="/">
                     <StaticImage
-                        src="https://dpg.gatsbyjs.io/static/338f5979bb68cf89d73391cc601ff388/ff1c2/logo.png"
+                        src="https://glossary.tio.ist/static/106db8fd32341f20c98d6d6601db11ab/ae058/logo.png"
                         width={100}
                         placeholder="none"
                         formats={["auto", "webp", "avif"]}
